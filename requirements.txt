@@ -1,0 +1,21 @@
+# Numerical Computing
+numpy
+scipy
+pandas
+
+# Visualization
+matplotlib
+
+# Machine Learning
+scikit-learn
+
+# Signal Processing
+PyWavelets
+tftb
+
+# Utilities
+tqdm
+
+# Notebook Environment
+jupyter
+ipykernel
